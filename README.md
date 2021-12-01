@@ -8,7 +8,7 @@ The app is developing using JavaScript framework **Vue@2.6.11**, Vue state manag
 ## Folder Structure
 - **pages** The app includes 4 pages in total, home page, departure city selector page, attractions detail page. The pages are put under **pages** folder.
 - **router** The app routers are defined in index.js under this folder.
-- **common** This folder contains some common components for the app.
+- **common** This folder contains some common components for the app. Gallery component for displaying images gallery in attraction detail page, Fade component for image fade animation.
 - **assets** The folder contains styles and iconfont for the app.
 - **store**  The state of the app (departure city data) lives in this folder.
 - **public** The app images and json data are under this folder.
