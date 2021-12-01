@@ -10,7 +10,7 @@ The app is developing using JavaScript framework **Vue@2.6.11**, Vue state manag
 - **router** The app routers are defined in index.js under this folder.
 - **common** This folder contains some common components for the app.
 - **assets** The folder contains styles and iconfont for the app.
-- **store**  The state of the app lives in this folder.
+- **store**  The state of the app (departure city data) lives in this folder.
 - **public** The app images and json data are under this folder.
 
 ## Visual Effect
