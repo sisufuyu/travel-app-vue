@@ -1,0 +1,132 @@
+{
+  "ret": true,
+  "data": {
+    "swiperList": [{
+        "id": "0001",
+        "imgUrl": "img/banner/beijing.jpg"
+      },{
+        "id": "0002",
+        "imgUrl": "img/banner/shanghai.jpg"
+      },{
+        "id": "0003",
+        "imgUrl": "img/banner/yunnan.jpg"
+      },{
+        "id": "0004",
+        "imgUrl": "img/banner/tokyo.jpg"
+      }],
+    "iconList": [{
+        "id": "0001",
+        "iconName": "Hotels",
+        "imgUrl": "img/icons/nav-hotel.png"
+      }, {
+        "id": "0002",
+        "iconName": "Flights",
+        "imgUrl": "img/icons/nav-flight.png"
+      }, {
+        "id": "0003",
+        "iconName": "Vacations",
+        "imgUrl": "img/icons/nav-travel.png"
+      }, {
+        "id": "0004",
+        "iconName": "Travel Articles",
+        "imgUrl": "img/icons/nav-note.png"
+      }, {
+        "id": "0005",
+        "iconName": "Hostels",
+        "imgUrl": "img/icons/nav-hostel.png"
+      }, {
+        "id": "0006",
+        "iconName": "Car Rentals",
+        "imgUrl": "img/icons/nav-car.png"
+      }, {
+        "id": "0007",
+        "iconName": "Tickets",
+        "imgUrl": "img/icons/nav-ticket.png"
+      }, {
+        "id": "0008",
+        "iconName": "Resturants",
+        "imgUrl": "img/icons/nav-food.png"
+      }],
+    "attractionList": [{
+        "id": "0001",
+        "imgUrl": "img/attractions/forbidden-city.jpg",
+        "name": "Forbidden City",
+        "info": "Forbidden City & Dongcheng Central"
+      }, {
+        "id": "0002",
+        "imgUrl": "img/attractions/gong-wang-fu.jpg",
+        "name": "Prince Gong's Mansion",
+        "info": "Prince Gong's Mansion & Xicheng Central"
+      }, {
+        "id": "0003",
+        "imgUrl": "img/attractions/summer-palace.jpg",
+        "name": "Summer Palace",
+        "info": "Summer Palace & Dongcheng South"
+      }, {
+        "id": "0004",
+        "imgUrl": "img/attractions/great-wall.jpg",
+        "name": "The Great Wall",
+        "info": "The Great Wall & Yanqing District"
+      }, {
+        "id": "0005",
+        "imgUrl": "img/attractions/temple-of-heaven-park.jpg",
+        "name": "Temple of Heaven Park",
+        "info": "Temple of Heaven Park & Dongcheng South"
+      }, {
+        "id": "0006",
+        "imgUrl": "img/attractions/tian-an-men.jpg",
+        "name": "Tian'anmen Square",
+        "info": "Forbidden City & Dongcheng Central"
+      }],
+    "recommendList": [{
+        "id": "0001",
+        "imgUrl": "https://imgs.qunarzz.com/p/p70/1809/e7/4941057a6aae702.jpg_256x160_9fee6ccb.jpg",
+        "titleMain": "Lijiang",
+        "titleSub": "5 days package Tour",
+        "info": "Including flight tickets + 4 nights hotel",
+        "price": "￥5050"
+      }, {
+        "id": "0002",
+        "imgUrl": "https://imgs.qunarzz.com/p/p12/201302/28/83ba8aa24931fbe493835fbb.jpg_256x160_7331b3d5.jpg",
+        "titleMain": "Yading Nature Reserve",
+        "titleSub": "7 days package Tour",
+        "info": "Including flight tickets + 6 nights hotel",
+        "price": "￥8506"
+      }, {
+        "id": "0003",
+        "imgUrl": "https://imgs.qunarzz.com/p/p67/1512/a2/0ebfcd965b9391f7.jpg_256x160_04d5813d.jpg",
+        "titleMain": "Sanya",
+        "titleSub": "5 days independent travel",
+        "info": "Including flight tickets + 6 nights hotel",
+        "price": "￥3260"
+      }, {
+        "id": "0004",
+        "imgUrl": "https://imgs.qunarzz.com/p/p73/1504/ab/15bbdcb31d3e61.jpg_256x160_139e3d4e.jpg",
+        "titleMain": "Mount Huang",
+        "titleSub": "6 days package Tour",
+        "info": "Including train tickets + 5 nights hotel",
+        "price": "￥4380"
+      }],
+      "travelList": [{
+        "id": "0001",
+        "imgUrl": "img/articles/tibet.jpg",
+        "title": "Trekking Mount Kailash, one of the world's greatest overland trips",
+        "summary": "Tibet offers fabulous monasteries, breathtaking high-altitude walks, stunning views of the world’s highest mountains and one of the warmest cultures you will ever encounter."
+      }, {
+        "id": "0002",
+        "imgUrl": "img/articles/suzhou.jpg",
+        "title": "A visual tour of Suzhou: the 'Venice of China'",
+        "summary": "Historically, Suzhou was synonymous with high culture and elegance, and generations of artists, scholars, writers and high society in China were drawn by its exquisite art forms and the delicate beauty of its gardens. Suzhou's historic sites have felt the effects of modern building booms, but the city still retains enough pockets of charm to warrant two to three days’ exploration on foot."
+      }, {
+        "id": "0003",
+        "imgUrl": "img/articles/disneyland.jpg",
+        "title": "Disneyland Shanghai will open next week with new rules for visitors",
+        "summary": "Shanghai Disneyland will reopen on 11 May after closing on 25 January due to the COVID-19 outbreak in China. Now as lockdown restrictions are beginning to ease throughout the country, Disney will partially open the theme park to visitors under 'enhanced safety measures'."
+      }, {
+        "id": "0004",
+        "imgUrl": "img/articles/park.jpg",
+        "title": "The definitive guide to China’s national parks",
+        "summary": "China is vast and beautiful. The third-largest country on Earth, it encompasses just about every type of landscape and wildlife species imaginable, from tropical jungle to Himalayan plateau. These massive ecosystems are home to an incredible wealth of biodiversity, including rare plant life and popular species like the beloved giant panda."
+      }]
+  }
+}
