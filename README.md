@@ -6,7 +6,7 @@ This is a travel app written with JavaScript, Vue and Stylus. The UI is designed
 The app is developing using JavaScript framework **Vue@2.6.11**, Vue state management **Vuex@3.4.0**,  Vue development tool **Vue Cli@4.5.0** and CSS preprocessor **Stylus**. It also use **vue-awesome-swiper@2.6.7** and **better-scroll@1.15.2** for better swiper and scroll effects.
 
 ## Folder Structure
-- **pages** The app includes 4 pages in total, home page, departure city selector page, attractions detail page. The pages are put under **pages** folder.
+- **pages** The app includes 4 pages in total, home page, departure city selector page, attractions detail page.
 - **router** The app routers are defined in index.js under this folder.
 - **common** This folder contains some common components for the app. Gallery component for displaying images gallery in attraction detail page, Fade component for image fade animation.
 - **assets** The folder contains styles and iconfont for the app.
