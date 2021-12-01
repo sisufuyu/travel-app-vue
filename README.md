@@ -12,7 +12,9 @@ The app is developing using JavaScript framework **Vue@2.6.11**, Vue state manag
 - **public** The app images and json data are under this folder.
 
 ## Visual Effect
-![travel-app-vue](https://user-images.githubusercontent.com/20355911/144327235-1e9d6dcc-79f2-4b28-9fdb-35c402a4d44c.png)
+- **home page**
+![travel-app-vue](https://user-images.githubusercontent.com/20355911/144328015-c672f325-7cab-4db1-8944-a975088eddb8.png)
+
 
 
 
