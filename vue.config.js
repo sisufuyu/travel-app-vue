@@ -4,7 +4,7 @@ module.exports = {
   devServer: {
     proxy: {
       '/api': {
-        target: 'http://localhost:8080',
+        target: 'https://travel-app-yufu.netlify.app',
         pathRewrite: {
           '^/api': 'mock'
         }
